@@ -19,13 +19,13 @@ const Certificates = () => {
           Certificates
         </h1>
 
-        {/* Properly Centered Grid */}
+        {/* Centered, Responsive Grid */}
         <div className="flex justify-center w-full">
-          <div className="flex flex-row gap-20 justify-center">
+          <div className="flex flex-wrap justify-center gap-10 md:gap-20 max-w-6xl">
             {certificates.map((cert, index) => (
               <div
                 key={index}
-                className="bg-gray-800 rounded-xl shadow-lg overflow-hidden transform transition-transform duration-300 hover:scale-105 w-72 sm:w-80 mx-auto"
+                className="bg-gray-800 rounded-xl shadow-lg overflow-hidden transform transition-transform duration-300 hover:scale-105 w-64 sm:w-72 md:w-80"
               >
                 <a href={cert.img} target="_blank" rel="noopener noreferrer">
                   <img
