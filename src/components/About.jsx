@@ -3,7 +3,7 @@ import Experince from "./Experince";
 const About = () => {
   return (
     <>
-      <div className="mt-12 md:mt-24 mb-100 md:mb-50 px-4 sm:px-6 md:px-10">
+      <div className="mt-12 md:mt-24 mb-100 md:mb-60 px-4 sm:px-6 md:px-10">
         <div className="flex justify-center text-center mb-8">
           <h1 className="text-3xl sm:text-4xl font-bold text-white">About</h1>
         </div>
