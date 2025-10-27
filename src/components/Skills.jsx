@@ -9,7 +9,7 @@ const Skills = () => {
 
   return (
     <>
-      <div className="mb-40 md:mb-100 px-4">
+      <div className="mb-40 md:mb-90 px-4">
         {/* Header */}
         <div className="flex flex-col items-center mt-16 md:mt-30 text-center">
           <h1 className="text-2xl md:text-3xl font-bold mb-6">Skills & Tech Stack</h1>

@@ -3,7 +3,7 @@ import Skills from "./Skills";
 const Experince = () => {
   return (
     <>
-      <div className="px-4 sm:px-6 md:px-10 mt-8 md:mt-10 mb-12 md:mb-28">
+      <div className="px-4 sm:px-6 md:px-10 mt-8 md:mt-10 mb-30 md:mb-80">
         <div className="flex justify-center text-center mb-12">
           <h1 className="text-3xl md:text-4xl font-bold text-white">Employment</h1>
         </div>
