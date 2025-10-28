@@ -31,7 +31,7 @@ const Home = () => {
             Full Stack Developer (MERN + PostgreSQL) | Node.js, Express.js, React.js, MongoDB, AWS | RESTful APIs & E-Commerce Platforms | Data Structures and Algorithms.
           </h2>
           <div className="mt-5">
-            <a href="/AnnaLavanyaT- Resume.pdf" download="AnnaLavanya-Resume.pdf">
+            <a href="/Anna LavanyaT-Resume.pdf" download="AnnaLavanya-Resume.pdf">
               <button className="px-6 py-3 bg-emerald-500 rounded-2xl text-lg text-black cursor-pointer hover:bg-emerald-800 transition-all">
                 Download Resume
               </button>
